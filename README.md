@@ -10,8 +10,8 @@ This project explores and visualizes my Spotify Wrapped playlists (2017-2024) us
 ## 🛠 Tech Stack
 - Python
 - Jupyter Notebook
-- pandas (data manipulation)
 - Spotipy (Spotify Web API)
+- pandas (data manipulation)
 - matplotlib & seaborn (data visualization)
 
 ## 📸 Sample Visualization
